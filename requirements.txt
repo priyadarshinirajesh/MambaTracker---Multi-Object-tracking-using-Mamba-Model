@@ -1,0 +1,8 @@
+torch==2.2.1      # latest stable CPU-compatible version
+torchvision==0.17.1
+numpy
+matplotlib
+opencv-python
+einops
+tqdm
+PyYAML
