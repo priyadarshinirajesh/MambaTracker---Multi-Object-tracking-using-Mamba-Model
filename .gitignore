@@ -1,3 +1,5 @@
 venv/
 mamba/
 data/
+data.zip
+try.py
