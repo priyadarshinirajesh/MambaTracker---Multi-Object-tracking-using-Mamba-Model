@@ -6,3 +6,4 @@ try.py
 output
 __pycache__/
 weights/
+yolov5
