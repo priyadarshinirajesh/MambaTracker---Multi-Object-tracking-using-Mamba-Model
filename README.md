@@ -1,9 +1,9 @@
 # image_and_video_analysis
 Object Tracking using Mamba Model
 
-#File Structure
-
-image_and_video_analysis/
+# File Structure
+```
+image_and_video_analysis/ 
 ├── weights/
 │   └── yolox_s.pth               # YOLOX model weights
 ├── generate_detection_yolox.py  # Script to generate detections
@@ -15,7 +15,7 @@ image_and_video_analysis/
 │   └── test/
 │       └── dancetrack0003/
 │           └── img1/            # Contains images (frames)
-
+```
 
 # How to setup the virtual environment 
 1) Create a conda environment using the command 
