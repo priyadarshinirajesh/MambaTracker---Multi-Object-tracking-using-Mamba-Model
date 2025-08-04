@@ -10,7 +10,7 @@ if __name__ == "__main__":
     print("Training completed, starting testing")
     test(data_root)
     print("Testing completed, starting visualization")
-    visualize_sequence("data/val/dancetrack0001", "results/val_results.txt")
+    visualize_sequence("data/val/dancetrack0004", "results/val_results.txt")
     print("Visualization completed, plotting losses")
     plot_losses()
     print("Main execution completed")
