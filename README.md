@@ -1,5 +1,9 @@
 # Object Tracking using Mamba Model
 
+# Required Dependencies :
+1. CUDA 11.6+
+2. mamba-1.1.1 
+
 # File Structure
 ```
 image_and_video_analysis/ 
