@@ -1,5 +1,5 @@
-# image_and_video_analysis
-Object Tracking using Mamba Model
+image_and_video_analysis
+# Object Tracking using Mamba Model
 
 # File Structure
 ```
